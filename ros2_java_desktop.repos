@@ -25,8 +25,8 @@ repositories:
     version: main
   ros2-java/ros2_java:
     type: git
-    url: https://github.com/ros2-java/ros2_java.git
-    version: main
+    url: https://github.com/genevanmeter/ros2_java
+    version: humble
   ros2-java/ros2_java_examples:
     type: git
     url: https://github.com/ros2-java/ros2_java_examples.git
